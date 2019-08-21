@@ -44,3 +44,12 @@ input[type="submit"]{
   color: #fff;
   border-radius: 10px;
 }
+
+
+@media screen and  (max-width: 760px){
+  main{
+    width: 85%;
+    padding: 0px;
+    padding: 5% 2.5%;
+  }
+}
