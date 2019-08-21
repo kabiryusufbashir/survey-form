@@ -11,3 +11,16 @@ main{
   background: #fff;
   padding: 2% 5%;
 }
+
+#title{
+  text-align: center;
+}
+
+#description{
+  text-align: center;
+  font-style: italic;
+}
+
+#description img{
+  border-radius: 50%;
+}
